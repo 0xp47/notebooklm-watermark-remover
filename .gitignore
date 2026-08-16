@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env/
+
+# Testing & Cache
+.pytest_cache/
+.coverage
+htmlcov/
+debug_watermark/
+scratch/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Output cleaned files
+*_cleaned.*
+
+# Local test & document files in root
+/*.pdf
+/*.pptx
+/*.png
+/*.jpg
+/*.jpeg
+/*.webp
