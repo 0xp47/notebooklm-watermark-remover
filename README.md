@@ -119,9 +119,9 @@ usage: notebooklm-remover [-h] [-o OUTPUT] [--preview] [--margin-x MARGIN_X]
                                        │
                 ┌──────────────────────┼──────────────────────┐
                 ▼                      ▼                      ▼
-           [ PDF Document ]      [ PPTX Archive ]       [ Image File ]
+         [ PDF Document ]      [ PPTX Archive ]       [ Image File ]
                 │                      │                      │
-        Vector Redaction        Unpack Media            Upscale ROI
+         Vector Redaction        Unpack Media            Upscale ROI
                 │                      │                      │
                 └──────────────┬───────┴──────────────────────┘
                                ▼
